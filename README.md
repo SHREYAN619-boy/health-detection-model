@@ -272,6 +272,3 @@ For questions, suggestions, feedback, or contributions related to the project, f
 
 ---
 
-*Developed to explore the intersection of Artificial Intelligence, Machine Learning, Data Science, and Healthcare.*
-
-**For Educational Purposes Only.**
