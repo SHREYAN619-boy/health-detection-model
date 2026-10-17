@@ -88,8 +88,6 @@ Any concerns regarding violations of this Code of Conduct can be reported direct
 
 The Health Prediction System was developed to demonstrate the practical application of machine learning, data preprocessing, and predictive analytics.
 
-Contributions should support the educational objectives of the project and encourage responsible experimentation with artificial intelligence.
-
 The application is not intended to diagnose, treat, or prevent medical conditions, and contributors must avoid making claims suggesting otherwise.
 
 ## Attribution
