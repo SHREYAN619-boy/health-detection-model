@@ -243,7 +243,6 @@ Although the current version demonstrates the basic functionality of the system,
 - **Advanced Model Evaluation:** Implement cross-validation and evaluate performance using accuracy, precision, recall, and F1-score.
 - **Web-Based Application:** Develop an accessible browser-based interface using Streamlit or Flask.
 - **Better Data Handling:** Improve the processing of multiple allergies and introduce stronger input validation.
-- **Explainable AI:** Explore feature importance and model interpretation techniques to understand which variables influence predictions.
 - **User Interface Improvements:** Introduce a more modern design with clearer visualizations and additional interactive features.
 
 ---
