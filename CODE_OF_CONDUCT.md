@@ -53,21 +53,6 @@ Maintainers reserve the right to edit, reject, or remove contributions, comments
 
 Repeated or serious violations may result in temporary or permanent restrictions from participating in the project.
 
-## Responsible Use of Artificial Intelligence
-
-Because this project explores machine learning applications in healthcare, contributors are expected to follow responsible AI development practices.
-
-All contributors should:
-
-- Clearly communicate the limitations of machine learning predictions.
-- Avoid making unsupported claims about medical accuracy or reliability.
-- Use synthetic, anonymized, or appropriately authorized datasets.
-- Respect the privacy and confidentiality of health-related information.
-- Encourage proper testing and evaluation before proposing model improvements.
-- Avoid presenting the application as a replacement for qualified healthcare professionals.
-
-**The Health Prediction System is intended strictly for educational purposes and must not be represented as a clinically validated medical diagnostic tool.**
-
 ## Scope
 
 This Code of Conduct applies to all project-related spaces, including:
