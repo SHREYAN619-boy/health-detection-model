@@ -53,17 +53,6 @@ When reporting an issue, please provide a clear description, steps to reproduce 
 
 Suggestions for improving the machine learning model, interface, or overall functionality are always welcome.
 
-## Responsible AI and Educational Use
-
-The Health Prediction System is developed strictly for educational purposes and is not a clinically validated medical diagnostic tool.
-
-Contributors are expected to:
-
-- Respect data privacy and confidentiality.
-- Avoid unsupported claims about medical accuracy.
-- Properly test and document changes to the prediction model.
-- Maintain transparency regarding the application's limitations.
-
 ## Code of Conduct
 
 All contributors are expected to follow the project's [Code of Conduct](CODE_OF_CONDUCT.md) and maintain a respectful, inclusive, and collaborative environment.
